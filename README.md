@@ -184,7 +184,7 @@ pip install image-processing-byalexandrepedrosa
 <br />
 <br />
 
-- [x] Carregue os submodulos:
+- [x] Carregue os submódulos:
 
 
 ```python
