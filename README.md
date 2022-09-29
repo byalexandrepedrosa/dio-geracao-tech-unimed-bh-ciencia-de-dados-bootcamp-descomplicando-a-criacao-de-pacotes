@@ -209,7 +209,7 @@ combination.find_difference(image1, image2)
 
 <br />
 
-Observação: leia as [notas](/#notas) a seguir, no caso essa parte refere-se a quem realizou o deploy no [ambiente Test Pypi](/#user-content-instalação-local-utilizando-o-ambiente-de-teste-do-pypi).
+Observação: leia as [notas](#notas) a seguir, no caso essa parte refere-se a quem realizou o deploy no [ambiente Test Pypi](#user-content-instalação-local-utilizando-o-ambiente-de-teste-do-pypi).
 
 <br />
 <br />
